@@ -8,5 +8,6 @@ project based on this repository .
 The folk's who are contributing to this repository have to chance to learn and implement various types of sorting programs in different forms and Languages .
 
 
-Sorting algorithms in different languages you know .
+to contribute to this Repository you should simply implement Sorting algorithms in different languages you know .
+
 This is open-source repository.
