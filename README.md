@@ -9,5 +9,8 @@ The folk's who are contributing to this repository have to chance to learn and i
 
 
 to contribute to this Repository you should simply implement Sorting algorithms in different languages you know .
+rename your file with which type of sort you Applied !  
+And make a pull request !
+That's it !
 
 This is open-source repository.
